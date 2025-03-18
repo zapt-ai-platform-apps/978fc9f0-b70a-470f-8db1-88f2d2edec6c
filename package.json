@@ -1,7 +1,7 @@
 {
-    "name": "reactjs-vite-tailwind-vercel",
+    "name": "prosaver-handyman-construction",
     "version": "1.0.0",
-    "description": "ReactJS app with Vite, Tailwind",
+    "description": "Website for ProSaver HandyMan Construction services",
     "type": "module",
     "scripts": {
         "dev": "vite",
